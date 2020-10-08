@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+.background{
+    background-color: palevioletred;
+}
+
+.main_phone{
+    width: 650px;
+    height: 960px;
+    background-color: peachpuff;
+    border: 3px solid pink;
+    margin: 0 auto;
+    border-radius: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    
+}
+.row{
+    width: 400px;
+    height: 20%;
+    margin: 5px 6px 5px 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: row wrap;
+  
+}
+.box{
+    display:flex;
+    width: 70px;
+    height: 70px;
+    border: 4px dotted palevioletred;
+    margin: 50px 5px 70px 5px ;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+  
+  
