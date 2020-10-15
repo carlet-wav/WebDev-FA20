@@ -1,0 +1,17 @@
+.circle{
+    border: 35px solid seashell;
+    border-top: 35px solid lime;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    animation: spin 5s linear infinite;
+    text-align: center;
+}
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
