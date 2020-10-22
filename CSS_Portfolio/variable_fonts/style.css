@@ -1,0 +1,25 @@
+h1 {
+  color: black;
+  font-size: 5vw;
+}
+@font-face{
+  font-family: 'Staatliches', cursive;
+  src: url(https://fonts.google.com/specimen/Staatliches#standard-styles);
+  font-weight: 100px;
+  font-stretch: expanded;
+
+}
+@font-face{
+  font-family: 'Lobster', cursive;
+  src: url(https://fonts.google.com/specimen/Lobster?selection.family=Lobster|Staatliches&sidebar.open=true);
+  font-weight: lighter;
+  font-stretch: extra-expanded;
+}
+.font1{
+  font-family: 'Staatliches', cursive;
+  margin-bottom: 15px;
+}
+.font2{
+  font-family: 'Lobster', cursive;
+  color: darkslategray;
+}

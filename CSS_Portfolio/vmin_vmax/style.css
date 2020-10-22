@@ -1,0 +1,10 @@
+h1 {
+  color: yellow;
+  font-size: 15vmin;
+}
+.min{
+  font-size: 7vmin;
+}
+.max{
+  font-size: 3vmax;
+}

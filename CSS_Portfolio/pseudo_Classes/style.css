@@ -1,0 +1,28 @@
+h1 {
+  color: gray;
+  font-size: 3vw;
+}
+a:link{
+  background-color: red;
+}
+a:visited{
+  background-color: hotpink;
+}
+a:active{
+  background-color: tomato;
+}
+a:hover p{
+  background-color: darkslateblue;
+}
+p{
+  display: none;
+  background-color: springgreen;
+  padding: 35px;
+}
+div:hover p {
+  display: block;
+}
+div{
+  font-size: 20px;
+}
+

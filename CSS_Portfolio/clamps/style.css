@@ -1,0 +1,15 @@
+h1 {
+  color: cornflowerblue;
+  font-size: clamp(2rem, 4vm, 4rem);
+
+}
+.contain{
+  width: clamp(230px, 50%, 400px);
+  height: 40px;
+  background-color: lavenderblush;
+}
+.box{
+  width: clamp(150px, 50%, 200px);
+  height: 70px;
+  background: lavender;
+}
