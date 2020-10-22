@@ -3,11 +3,11 @@ h1 {
   font-size: 3vw;
 }
 h1::before{
-  content: url(/images/glitter.gif);
+  content: url(images/glitter.gif);
 }
 h1::after{
-  content: url(/images/glitter.gif);
+  content: url(images/glitter.gif);
 }
 p::after{
-  content: url(/images/heartline.gif);
+  content: url(images/heartline.gif);
 }
